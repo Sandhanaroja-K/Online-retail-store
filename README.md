@@ -1,7 +1,7 @@
 # Project - Online Retail Customer 
-# Purchase Analysis
+### Purchase Analysis
 
-# Table of Contents
+## Table of Contents
 1. Problem Statement
 2. Project Objective
 3. Data Description
@@ -15,7 +15,7 @@
 11. Conclusion
 12. References
     
-# 1. Problem Statement
+ 1. Problem Statement
 The online retail store aims to understand customer purchase patterns to enhance business strategy. 
 This involves deriving insights from historical data and segmenting customers based on their 
 purchasing behaviour.
