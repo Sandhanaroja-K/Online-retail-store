@@ -77,15 +77,20 @@ Clustering with K-means
  - High-value customers tend to purchase luxury items.
  - Promotions and targeted marketing can be designed for different segments to maximize 
 engagement and revenue.
+
 10. Future Possibilities of the Project
 - Enhanced Personalization: Tailor marketing efforts based on customer segments.
 - Predictive Analytics: Predict future purchasing behaviour and trends.
 - Loyalty Programs: Design and implement loyalty programs to retain high-value customers.
+  
 11. Conclusion
+  
 The project successfully analyzed customer purchasing patterns and segmented customers based on 
 their purchasing behaviour, providing valuable insights to the online retailer. These insights can 
 inform strategic decisions to enhance customer satisfaction and business performance.
+
 12. References
+    
 1.Data Source: Online Retail Dataset-Intellipaat 
 2."K-Means Clustering: A Review" by S. B. Kotsiantis and D. Kanellopoulos (2006)
 3. "RFM Analysis: A Simple yet Effective Tool for Customer Segmentation" by W. J. Reinartz and V. 
