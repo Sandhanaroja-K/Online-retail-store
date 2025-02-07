@@ -38,10 +38,12 @@ Initial Data Exploration
 - Loaded the dataset to examine its structure and contents.
 - Performed exploratory data analysis (EDA) to understand data distribution, identify missing values, 
 and detect outliers.
+
 Data Cleaning
 - Handling Missing Values: Removed or imputed missing values.
 - Correcting Data Entry Errors: Ensured consistency in data entries.
 - Ensuring Appropriate Data Types: Converted data types where necessary (e.g., dates).
+- 
 Feature Engineering
 - Created new features such as:
  - TotalSpend: Total spend per invoice (Quantity * Price).
@@ -69,13 +71,15 @@ Clustering with K-means
 - Performed clustering and analyzed the characteristics of each cluster.
 ## 9. Inferences from the Same
 - Identified distinct customer segments with varying purchasing behaviours:
- - High-Value Customers: Frequent buyers with high total spend.
- - Occasional Shoppers: Infrequent buyers with moderate spending.
- - Low-Value Customers: Infrequent buyers with low total spend.
+  
+  - High-Value Customers: Frequent buyers with high total spend.
+  - Occasional Shoppers: Infrequent buyers with moderate spending.
+  - Low-Value Customers: Infrequent buyers with low total spend.
  
 - Key Insights:
- - High-value customers tend to purchase luxury items.
- - Promotions and targeted marketing can be designed for different segments to maximize 
+  
+  - High-value customers tend to purchase luxury items.
+  - Promotions and targeted marketing can be designed for different segments to maximize 
 engagement and revenue.
 
 ## 10. Future Possibilities of the Project
