@@ -42,7 +42,7 @@ and detect outliers.
 Data Cleaning
 - Handling Missing Values: Removed or imputed missing values.
 - Correcting Data Entry Errors: Ensured consistency in data entries.
-- Ensuring Appropriate Data Types: Converted data types where necessary (e.g., dates).
+- Ensuring Appropriate Data Types: Converted data types where necessary(e.g.Dates).
   
 Feature Engineering
 - Created new features such as:
